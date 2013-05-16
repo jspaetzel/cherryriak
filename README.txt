@@ -1,0 +1,1 @@
+CherryRiak is a quick implementation of CherryPy Sessions w/ a Riak Cluster
